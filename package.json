@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-directory-named-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby plugin that wraps directory-named-webpack-plugin",
   "scripts": {
     "build": "babel src --out-dir .",
