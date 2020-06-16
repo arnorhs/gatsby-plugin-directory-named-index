@@ -1,3 +1,4 @@
+const path = require('path')
 const DirectoryNamedWebpackPlugin = require('directory-named-webpack-plugin')
 
 exports.onCreateWebpackConfig = ({ stage, actions }, { include, ...opts }) => {
