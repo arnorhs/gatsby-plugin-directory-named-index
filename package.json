@@ -5,8 +5,7 @@
   "scripts": {
     "build": "babel src --out-dir .",
     "prepublish": "yarn build",
-    "test": "echo 'No test specified'",
-    "travis": "opn https://travis-ci.org/arnorhs/gatsby-plugin-directory-named-index/branches"
+    "test": "echo 'No test specified'"
   },
   "main": "index.js",
   "homepage": "https://github.com/arnorhs/gatsby-plugin-directory-named-index",
@@ -29,8 +28,7 @@
     "@babel/core": "^7.15.5",
     "babel-preset-gatsby-package": "^2.3.0-next.0",
     "cross-env": "^7.0.3",
-    "gatsby-plugin-utils": "^2.3.0-next.0",
-    "opn-cli": "^3.1.0"
+    "gatsby-plugin-utils": "^2.3.0-next.0"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
